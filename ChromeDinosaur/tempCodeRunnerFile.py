@@ -1,0 +1,1 @@
+DINO_7=pygame.image.load(os.path.join("Assets/Dino", "cig_on_0.png"))
